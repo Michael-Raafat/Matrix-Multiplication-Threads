@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1508528707 source:/home/michael/workspace/Threads/main.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<dirent.h>
+	<sys/types.h>
+	<unistd.h>
+	<string.h>
+	<sys/time.h>
+	<time.h>
+	"thread_manager.h"
+
+1508520577 /home/michael/workspace/Threads/thread_manager.h
+
+1508530624 source:/home/michael/workspace/Threads/thread_manager.c
+	"thread_manager.h"
+	"file_processing.h"
+	"matrix_parser.h"
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<stdio.h>
+	<ctype.h>
+	"matrix_calculator.h"
+
+1508421054 /home/michael/workspace/Threads/file_processing.h
+	<stdio.h>
+
+1508507295 source:/home/michael/workspace/Threads/file_processing.c
+	"file_processing.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1508529259 source:/home/michael/workspace/Threads/matrix_parser.c
+	"matrix_parser.h"
+	"thread_manager.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+
+1508422371 /home/michael/workspace/Threads/matrix_parser.h
+	"thread_manager.h"
+
+1508421054 /home/michael/workspace/Threads/matrix_calculator.h
+
+1508424129 source:/home/michael/workspace/Threads/matrix_calculator.c
+	"matrix_calculator.h"
+	"thread_manager.h"
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
+1508507295 source:/media/michael/1446254746252AC6/College/3rd year/3rd Year/1st Semester/02_Operating Systems/my work/lab2_54/Threads/file_processing.c
+	"file_processing.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1508421054 /media/michael/1446254746252AC6/College/3rd year/3rd Year/1st Semester/02_Operating Systems/my work/lab2_54/Threads/file_processing.h
+	<stdio.h>
+
+1508537486 source:/media/michael/1446254746252AC6/College/3rd year/3rd Year/1st Semester/02_Operating Systems/my work/lab2_54/Threads/main.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<dirent.h>
+	<sys/types.h>
+	<unistd.h>
+	<string.h>
+	<sys/time.h>
+	<time.h>
+	"thread_manager.h"
+
+1508520577 /media/michael/1446254746252AC6/College/3rd year/3rd Year/1st Semester/02_Operating Systems/my work/lab2_54/Threads/thread_manager.h
+
+1508424129 source:/media/michael/1446254746252AC6/College/3rd year/3rd Year/1st Semester/02_Operating Systems/my work/lab2_54/Threads/matrix_calculator.c
+	"matrix_calculator.h"
+	"thread_manager.h"
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
+1508421054 /media/michael/1446254746252AC6/College/3rd year/3rd Year/1st Semester/02_Operating Systems/my work/lab2_54/Threads/matrix_calculator.h
+
+1508530624 source:/media/michael/1446254746252AC6/College/3rd year/3rd Year/1st Semester/02_Operating Systems/my work/lab2_54/Threads/thread_manager.c
+	"thread_manager.h"
+	"file_processing.h"
+	"matrix_parser.h"
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<stdio.h>
+	<ctype.h>
+	"matrix_calculator.h"
+
+1508422371 /media/michael/1446254746252AC6/College/3rd year/3rd Year/1st Semester/02_Operating Systems/my work/lab2_54/Threads/matrix_parser.h
+	"thread_manager.h"
+
